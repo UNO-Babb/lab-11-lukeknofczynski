@@ -1,0 +1,11 @@
+From the base code, I changed the number of items to randomly be between 5 and 30, instead of 5 and 20.
+I also randomized the arrival time of customers so that it randomly chose a number between 1 and 3 minutes.
+I also changed the number of checkers from 5 to 3
+Lastly I changed the time of the simulation from 180 minutes to 360 minutes
+
+I learned how the changing the variable will effect most everything. I first increased numbers around the simulation like 
+the number of items and the time of the simulation. My goal was then to find the most efficient wait time and idle time 
+combination. I used 5 checkers as my control group and then found that the optimal number of checkers was either 2 or 3.
+With 2, I had a lot less idle time, but the wait time was consistantly above 3 minutes. with 3 checkers there was much more
+idle time, but wait times were always under 3 minutes. This helped me understand independent variables and how the effect the
+dependent variable.
